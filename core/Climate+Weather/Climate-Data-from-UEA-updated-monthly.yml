@@ -14,7 +14,7 @@ accrual_periodicity: monthly
 specification:
 data_quality: 
 data_dictionary:
-language:
+language: ENG
 license:
 publisher:
 organization:
